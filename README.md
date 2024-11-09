@@ -134,13 +134,6 @@ npm run dev
 
 ## 🔧 Configuration
 
-### Environment Variables
-
-```env
-VITE_APP_TITLE=AlumUnite
-VITE_APP_API_URL=your_api_url
-```
-
 ### TypeScript Configuration
 
 The project uses strict TypeScript configuration with the following key settings:
@@ -334,13 +327,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For support, email support@alumunite.com or create an issue in the repository.
+For support, email reachfomealalor@gmail.com or create an issue in the repository.
 
-## 🔗 Links
-
-- [Documentation](https://docs.alumunite.com)
-- [Demo](https://demo.alumunite.com)
-- [Contributing Guidelines](CONTRIBUTING.md)
 
 ---
 
