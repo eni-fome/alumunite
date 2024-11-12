@@ -1,4 +1,3 @@
-// src/components/common/Modal.vue
 <template>
 	<TransitionRoot
 		appear

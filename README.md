@@ -116,7 +116,7 @@ npm >= 6.x
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/alumunite.git
+git clone https://github.com/eni-fome/alumunite.git
 cd alumunite
 ```
 
